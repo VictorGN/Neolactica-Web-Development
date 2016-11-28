@@ -12,7 +12,7 @@
 				<div class="navbar no-radius">
 					<a href="index.php" class="navbar-brand md">
 						<img src="images/logo.png" alt="." class=""> 
-						<span class="hidden-folded inline">NEOLACTICA</span>
+						<span class="hidden-folded inline">NEOLACTICA2</span>
 					</a>
 				</div>
 				<!-- FIN LOGO -->
@@ -24,7 +24,7 @@
 							</li>
 							<li><a href="#">
 								<span class="nav-icon"><i class="material-icons">play_circle_outline</i></span> 
-								<span class="nav-text">Albunes</span></a>
+								<span class="nav-text">Albunesa</span></a>
 							</li>
 							<li><a href="#"><span class="nav-icon"><i class="material-icons">sort</i></span> 
 								<span class="nav-text">Listas</span></a>
